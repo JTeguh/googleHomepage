@@ -1,0 +1,101 @@
+.footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background-color: #F0EDED;
+	padding-top: 30px;
+	padding-bottom: 12px;
+	text-decoration: none;
+}
+
+.aFooter {
+	position: fixed;
+	bottom: 14px;
+	color: #707070;
+	padding-left: 30px;
+	font-size: small;
+	font-family: arial,sans-serif;
+	text-decoration: none;
+}
+
+.aFooter:hover {
+	text-decoration: underline;
+}
+
+
+.bFooter {
+	position: fixed;
+	bottom: 14px;
+	color: #707070;
+	padding-left: 125px;
+	font-size: small;
+	font-family: arial,sans-serif;
+	text-decoration: none;
+}
+
+.bFooter:hover {
+	text-decoration: underline;
+}
+
+
+.abFooter {
+	position: fixed;
+	bottom: 14px;
+	color: #707070;
+	padding-left: 208px;
+	font-size: small;
+	font-family: arial,sans-serif;
+	text-decoration: none;
+}
+
+.abFooter:hover {
+	text-decoration: underline;
+}
+
+.pFooter {
+	position: fixed;
+	bottom: 14px;
+	color: #707070;
+	padding-left: 1200px;
+	font-size: small;
+	font-family: arial,sans-serif;
+	text-decoration: none;
+}
+
+.pFooter:hover {
+	text-decoration: underline;
+}
+
+.tFooter {
+	position: fixed;
+	bottom: 14px;
+	color: #707070;
+	padding-left: 1273px;
+	font-size: small;
+	font-family: arial,sans-serif;
+	text-decoration: none;
+}
+
+.tFooter:hover {
+	text-decoration: underline;
+}
+
+.sFooter {
+	position: fixed;
+	bottom: 14px;
+	color: #707070;
+	padding-left: 1341px;
+	font-size: small;
+	font-family: arial,sans-serif;
+	text-decoration: none;
+}
+
+.sFooter:hover {
+	text-decoration: underline;
+}
+
+.searchBar {
+	position: fixed;
+	width: 50%;
+	bottom: 1000px;
+}
